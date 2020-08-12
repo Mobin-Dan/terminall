@@ -63,7 +63,5 @@ if x==s2:
     print s2
 if x==i:
     print i
- if x==p:
-     print p
 if x==bn:
     print bn
